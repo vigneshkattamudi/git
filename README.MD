@@ -5,5 +5,5 @@
 * This is first commit in feature branch, after creating this branch
 * Added new Feature in feature branch
 
-## ADDING NEW FEATURE
-* This is new feature 
+### ADDING NEW FEATURE
+* This is new feature from feature-2
